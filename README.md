@@ -1,5 +1,7 @@
 # indic-keys
 
+[![Test](https://github.com/tulasisai/indic-keys/actions/workflows/test.yml/badge.svg)](https://github.com/tulasisai/indic-keys/actions/workflows/test.yml)
+
 Type Indian languages with English letters. A small, dependency-free Kotlin library that turns
 `namaste` into **नमस्ते**, **నమస్తె**, **நமஸ்தெ** or **নমস্তে**, and gives you each script's alphabet
 for building keyboards, pickers and learning apps.
